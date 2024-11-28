@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: brown;
+}
+
+*{
+    background-color: tan;
+}
+
+
+img{
+    width: 500;
+    height: 200px;
+}
+
+footer{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+
+}
